@@ -1,16 +1,10 @@
-# chatapp
+# 💬 ChatWith - Screenshots & Preview
 
-A new Flutter project.
+Introducing **ChatWith** – a seamless messaging experience with intuitive design and smart features.
 
-## Getting Started
+📸 **App Screenshots**  
+Get a glimpse of the clean interface and functionality of ChatWith.
 
-This project is a starting point for a Flutter application.
+🔗 [Click here to view the ChatWith screenshots](https://drive.google.com/file/d/1YpKpR40dsVCOEeQ46aZlVnAApt8Jn1Xv/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
